@@ -39,8 +39,8 @@
     "@angular/http": "5.2.11",
     "@angular/platform-browser": "5.2.11",
     "@angular/platform-browser-dynamic": "5.2.11",
-    "@ionic-native/core": "4.13.0",
-    "@ionic-native/file": "4.13.0",
+    "@ionic-native/core": "^5.1.0",
+    "@ionic-native/file": "^5.1.0",
     "codelyzer": "^4.4.2",
     "conventional-changelog-cli": "^2.0.1",
     "ionic-angular": "^3.9.2",
@@ -51,6 +51,6 @@
     "zone.js": "0.8.26"
   },
   "peerDependencies": {
-    "@ionic-native/file": "^4.0.0"
+    "@ionic-native/file": "^5.1.0"
   }
 }
